@@ -9,3 +9,5 @@
 
 ### Domain Background
 Dozen of years ago, with the coming of internet the use of video for information change generalized. Videos are present in several various domain : academic, professional, but also for the public. But this is not hasardous. Indeed, several keen studies showed that using of video allows a cognitive worth for their users, unlike a simple reading. 
+
+"The using of video as an illustration item, for instance, leads to bring to learning a dimension more close to reality because a situation which is complex to describe could be more understandable using a presentation of fix images or animated sequences" (De Lièvre et al., 2000)[See Here](https://www.usherbrooke.ca/ssf/tous-les-numeros/septembre-2012/le-ssf-veille/pourquoi-utiliser-la-video-en-formation/)
