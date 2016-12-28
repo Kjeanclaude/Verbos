@@ -8,3 +8,4 @@
 ## Proposal for the project
 
 ### Domain Background
+Dozen of years ago, with the coming of internet the use of video for information change generalized. Videos are present in several various domain : academic, professional, but also for the public. But this is not hasardous. Indeed, several keen studies showed that using of video allows a cognitive worth for their users, unlike a simple reading. 
