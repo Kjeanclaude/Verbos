@@ -5,3 +5,6 @@
 	(for example 'English'), and the output should be in another different language (for example 'French'). 
 	The output should keep the images in the original video, but automatically translate the speech.
 	
+## Proposal for the project
+
+### Domain Background
