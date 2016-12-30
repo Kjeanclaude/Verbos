@@ -4,8 +4,9 @@
 	Machine Learning, Deep Learning and related. The input should be a Video in a given language 
 	(for example 'English'), and the output should be in another different language (for example 'French'). 
 	The output should keep the images in the original video, but automatically translate the speech.
-	
-## Proposal for the project
+
+
+#``Proposal for the project``
 ----------------------------
 
 ### Domain Background
@@ -31,6 +32,7 @@ So the system would be very useful for information change in these domain :
 
 	- Academic (Students, Researchers, etc.)
 	- Online courses (MOOC)
-	- Public information (publy the video in one language, and anyone could watch it in its desired language, through the system)
+	- Public information (publy the video in one language, and anyone could watch it in its desired language, 
+	through the system)
 	- Etc.
 
