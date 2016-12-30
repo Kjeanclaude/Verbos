@@ -21,3 +21,7 @@ A such system should also take into account the different possibilities of inter
 
 
 ### Project Objectives
+The main objective for this project is to create a system which ensures an automated voice translation of a video from a given language to another one, different from the input video.
+Then, this should be useful to several subojectives to define.
+
+
