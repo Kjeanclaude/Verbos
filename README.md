@@ -24,4 +24,9 @@ A such system should also take into account the different possibilities of inter
 The main objective for this project is to create a system which ensures an automated voice translation of a video from a given language to another one, different from the input video.
 Then, this should be useful to several subojectives to define.
 
+So the system would be very useful for information change in these domain :
+	- Academic (Students, Researchers, etc.)
+	- Online courses (MOOC)
+	- Public information (publy the video in one language, and anyone could watch it in its desired language, through the system)
+	- Etc.
 
