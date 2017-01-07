@@ -43,3 +43,7 @@ So the system would be very useful for information change in these domain :
 - select the output language (set a default output language)
 - take into account online videos
 - Etc (to be continue).
+
+
+### Project Architectures 
+===========================
