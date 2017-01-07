@@ -39,4 +39,7 @@ So the system would be very useful for information change in these domain :
 
 ### Project Functionalities
 ===========================
-
+- import or select the video to display
+- select the output language (set a default output language)
+- take into account online videos
+- Etc (to be continue).
