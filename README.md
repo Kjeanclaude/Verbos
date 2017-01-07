@@ -36,3 +36,7 @@ So the system would be very useful for information change in these domain :
 	through the system)
 	- Etc.
 
+
+### Project Functionalities
+===========================
+
