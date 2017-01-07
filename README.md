@@ -47,3 +47,11 @@ So the system would be very useful for information change in these domain :
 
 ### Project Architectures 
 ===========================
+
+Here I will propose some of my actual architectures (or vision) of the system, and open it for discussion.
+Could be an architecture based on open source system and/or through proprietary but very low cost APIs and discuss the what and why cases.
+
+So anyone interested in could contribute with a more clear explanation.
+
+
+
