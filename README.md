@@ -44,6 +44,7 @@ So the system would be very useful for information change in these domain :
 - take into account online videos
 - Keep the original voice tempo
 - Keep the original video picture
+- The translated voice should replace the orginal one
 - Etc (to be continue).
 
 
