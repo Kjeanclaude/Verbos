@@ -43,6 +43,7 @@ So the system would be very useful for information change in these domain :
 - select the output language (set a default output language)
 - take into account online videos
 - Keep the original voice tempo
+- Keep the original video picture
 - Etc (to be continue).
 
 
