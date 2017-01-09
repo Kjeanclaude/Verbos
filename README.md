@@ -52,4 +52,4 @@ Could be an architecture based on open source system and/or through proprietary 
 So anyone interested in could contribute with a more clear explanation.
 
 
-
+### Project Contribution to Knowledge
