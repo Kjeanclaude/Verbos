@@ -57,3 +57,5 @@ This project brings a contribution in the field of Human Machine Interaction (HM
 
 This will make the video accessible, a priori, to anyone no matter his language. And moreover, this technique would be continually improved next.
 
+### Some References
+
