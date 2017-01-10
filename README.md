@@ -55,3 +55,5 @@ So anyone interested in could contribute with a more clear explanation.
 ### Project Contribution to Knowledge
 This project brings a contribution in the field of Human Machine Interaction (HMI). Until nowadays translate systems mostly propose simple subtitles for their contents. This work should be an open proposition for another possibility which aims to be on one hand more efficient concerning people learning capacity (cognitive value), and on the other hand concerning the increasing of the number of learners.
 
+This will make the video accessible, a priori, to anyone no matter his language. And moreover, this technique would be continually improved next.
+
