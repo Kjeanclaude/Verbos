@@ -51,6 +51,13 @@ Could be an architecture based on open source system and/or through proprietary 
 
 So anyone interested in could contribute with a more clear explanation.
 
+I just give below a list of idea I will detail later:
+- Online (Work on subtitle direct translation ?)
+- Immersive solution : get into video and tranform features through "Advanced Video Coding Systems"
+- Apply Advanced translation APIs to the video sound (without any transformation inside the video)
+- Use AENet to perform the job
+- Etc.
+
 
 ### Project Contribution to Knowledge
 This project brings a contribution in the field of Human Machine Interaction (HMI). Until nowadays translate systems mostly propose simple subtitles for their contents. This work should be an open proposition for another possibility which aims to be on one hand more efficient concerning people learning capacity (cognitive value), and on the other hand concerning the increasing of the number of learners (as stakeholders don't need to understand the language in which the video is originally published).
