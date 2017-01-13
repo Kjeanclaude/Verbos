@@ -59,3 +59,7 @@ This will make the video accessible, a priori, to anyone no matter his language.
 
 ### Some References
 
+-	**Advanced Video Coding Systems**, Wen Gao & Siwei Ma, ISBN 978-3-319-14243-2 (eBook).
+-	**AENet: Learning Deep Audio Features for Video Analysis** | Naoya Takahashi, Michael Gygli, Luc Van Gool
+[Download here](https://arxiv.org/pdf/1701.00599)
+
