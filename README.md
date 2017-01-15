@@ -69,4 +69,5 @@ This will make the video accessible, a priori, to anyone no matter his language.
 -	**Advanced Video Coding Systems**, Wen Gao & Siwei Ma, ISBN 978-3-319-14243-2 (eBook).
 -	**AENet: Learning Deep Audio Features for Video Analysis** | Naoya Takahashi, Michael Gygli, Luc Van Gool
 [Download here](https://arxiv.org/pdf/1701.00599)
-
+-	**Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation** | Melvin Johnson, Mike Schuster, Quoc V. Le, Maxim Krikun, Yonghui Wu, Zhifeng Chen, Nikhil Thorat, Fernanda Viégas, Martin Wattenberg, Greg Corrado, Macduff Hughes, Jeffrey Dean
+[Download here](https://arxiv.org/pdf/1611.04558v1.pdf)
